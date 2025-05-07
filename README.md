@@ -5,3 +5,4 @@ Aplicacion para el oratorio Salesiano
 Base de datos 
 
 https://www.youtube.com/watch?v=zK5mk_zmqqs&list=PL2Z95CSZ1N4EW0PvNhd4ySZisgBrJjSW2&index=2
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=1a1c4604aa116c9c12d652e5ab5e6dc7
